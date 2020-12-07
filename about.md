@@ -1,16 +1,15 @@
-
 ---
 layout: page
 title: About
-permalink: Software Engineering student
-published: true
+permalink: /about/
 ---
-Cataloguing my coding journey with Flatiron
+
+Some information about you!
 
 ### More Information
 
-Interested in bridging tech and environmental solutions
+A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[Gmail](mailto:@gmail.com)
+[email@domain.com](mailto:email@domain.com)

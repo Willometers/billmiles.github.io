@@ -5,11 +5,6 @@ title: About
 permalink: Software Engineering student
 published: true
 ---
----
-layout: page
-title: About
-permalink: /about/
----
 
 Cataloguing my coding journey with Flatiron
 

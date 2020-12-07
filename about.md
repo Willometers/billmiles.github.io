@@ -19,5 +19,4 @@ Interested in bridging tech and environmental solutions
 
 ### Contact me
 
-[Github](mailto:@gmail.com)
-
+[Gmail](mailto:@gmail.com)

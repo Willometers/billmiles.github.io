@@ -12,4 +12,4 @@ Interested in bridging tech and environmental solutions
 
 ### Contact me
 
-[Github](willometers.github.io)
+[Github](mailto:x@gmail.com)

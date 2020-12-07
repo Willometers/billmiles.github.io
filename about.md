@@ -1,15 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: Software Engineering student
 ---
-
-Some information about you!
+Cataloguing my coding journey with FLatiron
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interested in bridging tech and environmental solutions
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Github](willometers.github.io)

@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Cataloguing my coding journey with Flatiron
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interested in bridging tech and environmental solutions
 
 ### Contact me
 
